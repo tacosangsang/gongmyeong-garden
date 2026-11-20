@@ -1,8 +1,10 @@
 # 공명정원 Seedance 0-15초 (군중 → 빨간 인물 → 씨앗)
 
-## [최신] 11-21 5차 판 (13초, 480p, 사용자 참고 영상 GMC_Sub_01 반영)
+## [최신] 11-21 6차 판 (13초, 480p, 사용자 참고 영상 GMC_Sub_01 반영)
 
 참고 영상(9초)의 움직임: 몸이 짧은 대시 모양 빛 입자로 터져 중심을 도는 둥근 회오리(정면, 가운데 눈) → 회전하며 수축, 안쪽은 세로 방추, 바깥은 수평 원반으로 납작해짐(행성 고리 형성) → 점 입자로 된 나선 리본 격자 씨앗, 흰 타원 핵은 씨앗 아래쪽 안, 고리 2개가 기울기를 계속 바꾸며(세차) 거의 옆선까지 돈다.
+
+6차: 질감이 모래 같다는 검수. 원인은 STYLE의 dust-like, grainy, low contrast가 모래·분말 질감을 직접 요구한 것. 자체 발광 빛점으로 교체, AVOID에 모래·분말·불투명 입자.
 
 ```
 REFERENCE ROLES:
@@ -10,7 +12,7 @@ REFERENCE ROLES:
 @image2: the silhouette of the seed only (pointed cocoon, spiral ribbons). It is a still drawing; never reproduce it as a still. In this video the seed is built from moving particles and is never motionless.
 Priority: people and city look from @image1, seed shape from @image2.
 
-STYLE: extremely fine dust-like glowing particles, soft grainy edges with a few drifting specks, near-black body interiors, faint dim dotted city lines, deep black, low contrast; quiet, cold, ceremonial, mostly black. Only the red woman and the seed carry color; the white core of the seed is the brightest point at the end.
+STYLE: everything is drawn with tiny self-luminous points of light, not with matter: each point emits its own light with a small soft glow around it, like distant city lights or starlight, brightness varying from point to point, a few points gently twinkling; figures are defined by these light points along their edges, a few loose light points drifting off, near-black body interiors, faint dim dotted city lines, deep black background so the points read as light; quiet, cold, ceremonial, mostly black. Only the red woman and the seed carry color; the white core of the seed is the brightest point at the end.
 
 SUMMARY: A gray particle crowd passes along a night street; a red woman walks in and stops; in close-up she turns to the camera, dissolves into red particles and becomes a glowing seed. A 13-second sequence of two cuts of uneven length.
 
@@ -29,7 +31,7 @@ STAGING: the crowd is scattered irregularly at uneven distances and different an
 
 CONSISTENCY: the red woman appears only from 2s to 9s and is the same woman in both cuts (same ponytail, same outfit, same red). Only one cut, at 4s. Same street, same darkness throughout. No dialogue, no voiceover. No music of any kind: no score, no soundtrack, no background melody; ambient sound only. No subtitles.
 
-AVOID: the seed or rings freezing or settling into a still image, the motion slowing to a stop at the end, particles falling or blowing away like sand, dust or ash, a shapeless puff of dust, rings that keep the same tilt, her hair or outfit changing before she dissolves, slow-motion walking, passers-by as large as the red woman in the close-up background, a seed drawn with solid wire lines, the red woman visible before 2s, a different red person in the close-up, her walking toward screen right or walking backward, reversed playback, a seed shape different from @image2, an explosive blast or flash, solid filled bodies, visible facial detail, crisp outlines, rim light, chunky dots, pink or orange tint, red on the gray people, neon, heavy bloom, lens flare, any camera movement, readable text. No objects appearing out of thin air.
+AVOID: the seed or rings freezing or settling into a still image, the motion slowing to a stop at the end, a sand, dust, powder or grain texture, matte opaque particles, particles falling or blowing away like sand, a shapeless puff of dust, rings that keep the same tilt, her hair or outfit changing before she dissolves, slow-motion walking, passers-by as large as the red woman in the close-up background, a seed drawn with solid wire lines, the red woman visible before 2s, a different red person in the close-up, her walking toward screen right or walking backward, reversed playback, a seed shape different from @image2, an explosive blast or flash, solid filled bodies, visible facial detail, crisp outlines, rim light, chunky dots, pink or orange tint, red on the gray people, neon, heavy bloom, lens flare, any camera movement, readable text. No objects appearing out of thin air.
 ```
 
 ## [옛 판] 11-21 4차 판 (13초, 480p)
