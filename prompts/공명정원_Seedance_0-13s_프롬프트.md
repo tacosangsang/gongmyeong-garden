@@ -1,6 +1,38 @@
 # 공명정원 Seedance 0-15초 (군중 → 빨간 인물 → 씨앗)
 
-## [최신] 11-21 4차 판 (13초, 480p)
+## [최신] 11-21 5차 판 (13초, 480p, 사용자 참고 영상 GMC_Sub_01 반영)
+
+참고 영상(9초)의 움직임: 몸이 짧은 대시 모양 빛 입자로 터져 중심을 도는 둥근 회오리(정면, 가운데 눈) → 회전하며 수축, 안쪽은 세로 방추, 바깥은 수평 원반으로 납작해짐(행성 고리 형성) → 점 입자로 된 나선 리본 격자 씨앗, 흰 타원 핵은 씨앗 아래쪽 안, 고리 2개가 기울기를 계속 바꾸며(세차) 거의 옆선까지 돈다.
+
+```
+REFERENCE ROLES:
+@image1: the look of the people, the night city and the particle rendering style only. Do not copy its composition, camera angle or framing, and do not use it as the first frame. The red woman in @image1 is the same red woman in this video, but she is NOT in the frame before 2s; take only her design (ponytail, short dress, camellia red particles) from it.
+@image2: the silhouette of the seed only (pointed cocoon, spiral ribbons, white core at the bottom tip). It is a still drawing; never reproduce it as a still. In this video the seed is built from moving particles and is never motionless.
+Priority: people and city look from @image1, seed shape from @image2.
+
+STYLE: extremely fine dust-like glowing particles, soft grainy edges with a few drifting specks, near-black body interiors, faint dim dotted city lines, deep black, low contrast; quiet, cold, ceremonial, mostly black. Only the red woman and the seed carry color; the white core of the seed is the brightest point at the end.
+
+SUMMARY: A gray particle crowd passes along a night street; a red woman walks in and stops; in close-up she turns to the camera, dissolves into red particles and becomes a glowing seed. A 13-second sequence of two cuts of uneven length.
+
+SPACE AND SCREEN DIRECTION: one night street seen from the side. Screen right is where the red woman comes from; she walks toward screen left (her own forward direction). The crowd crosses in both directions. No direct light source in frame; the only light is the glow of the particles.
+
+TIMELINE:
+0-2s, Camera: wide, eye level, telephoto, locked off, side view of the street. The @image1-style gray crowd walks across the frame in both directions in side profile, at a brisk city walking pace, each at a slightly different speed, some faster, so the frame keeps flowing, layered in depth: blurred near the lens, sharp in the middle, small and dim far back. Among them the short-haired person in a hoodie, the person in a cap, the curly-haired man in a blazer from @image1; everyone else also different men and women with different heights, hairstyles and outfits. No red anywhere. Subtext: an ordinary, anonymous flow of people. Sound: soft night city ambience, scattered footsteps. End state at 2s: only the gray crowd, the center of the frame open.
+2-4s, Camera: same wide, locked off, no movement. The red woman enters at the right edge of the screen in side profile and walks toward screen left at the same brisk pace as the crowd, then slows down and stops at the center of the frame, her upper body settling; she stands still for one beat while the gray crowd keeps passing in front of and behind her. Subtext: one person stops while everyone else keeps moving. Sound: her footsteps slow and stop, the crowd continues. End state at 4s: the red woman standing still at center in side profile, facing screen left.
+4-6s, Camera: hard cut to a medium close-up, chest up, same side axis, eye level, locked off. The same red woman, centered, still facing screen left. She slowly turns her head toward the camera, her shoulders following a moment later, until she faces the lens. Passers-by keep their real-world scale against her: background passers-by are several meters behind her, soft and small, their heads below her shoulder line, about half her size on screen; foreground passers-by are close to the lens, only partly in frame, large and very blurred, crossing quickly. Subtext: she notices us. Sound: the crowd ambience grows distant. End state at 6s: she faces the lens directly.
+6-7s, Camera: same, locked off. She holds completely still, facing the camera. Subtext: a held breath before the change. Sound: near silence.
+7-9s, Camera: same, locked off. Her body bursts outward into thousands of short red light streaks, like tiny dashes, each streak pointing along its direction of travel. They do not fall or blow away: they all orbit one center point in the middle of the frame, forming a large round swirling cloud seen face-on, like a slow galaxy or a cyclone, with a small dark eye at the center. The cloud keeps turning the whole time. The passers-by thin out and are gone by 8s. Subtext: release, not destruction. Sound: <a soft rising shimmer>. End state at 9s: a round cloud of orbiting red streaks filling most of the frame, no people.
+9-11s, Camera: same, locked off. Still turning, the cloud contracts toward its center. The inner streaks pack together into a dense vertical spindle shape in the middle, while the outer streaks flatten into a thin spinning horizontal disc around it, like the rings of a planet forming. The spindle resolves into the seed silhouette of @image2: a tall cocoon pointed at top and bottom, made of twisted helix ribbons of fine dotted particles, an open lattice you can see through. A white glowing oval core lights up inside the lower half of the seed. The disc thins into two narrow dotted rings of particles around the seed. Subtext: something new takes shape. Sound: <a low soft hum>.
+11-13s, Camera: same, locked off. The two rings keep moving the whole time: each ring orbits around the seed and its tilt keeps changing, slowly precessing like a spinning coin, so the rings cross each other and pass from an open oval to almost edge-on and back. The helix ribbons of the seed keep turning around its vertical axis, the dotted particles sliding along them; the white core gently pulses. The last second moves as much as the first. A few faint blue-gray bokeh points remain in the black. Subtext: quiet promise. Sound: the hum continues.
+
+STAGING: the crowd is scattered irregularly at uneven distances and different angles, overlapping only partly; no rows, no queue, no evenly spaced figures.
+
+CONSISTENCY: the red woman appears only from 2s to 9s and is the same woman in both cuts (same ponytail, same outfit, same red). Only one cut, at 4s. Same street, same darkness throughout. No dialogue, no voiceover. No music of any kind: no score, no soundtrack, no background melody; ambient sound only. No subtitles.
+
+AVOID: the seed or rings freezing or settling into a still image, the motion slowing to a stop at the end, particles falling or blowing away like sand, dust or ash, a shapeless puff of dust, rings that keep the same tilt, her hair or outfit changing before she dissolves, slow-motion walking, passers-by as large as the red woman in the close-up background, a seed drawn with solid wire lines, the red woman visible before 2s, a different red person in the close-up, her walking toward screen right or walking backward, reversed playback, a seed shape different from @image2, an explosive burst, solid filled bodies, visible facial detail, crisp outlines, rim light, chunky dots, pink or orange tint, red on the gray people, neon, heavy bloom, lens flare, any camera movement, readable text. No objects appearing out of thin air.
+```
+
+## [옛 판] 11-21 4차 판 (13초, 480p)
 
 3차 생성 검수: 고리·씨앗이 약 10.5초부터 끝까지 정지, 분해가 모래 먼지 덩어리, 분해 직전 머리 모양 바뀜, 와이드는 원피스·클로즈업은 재킷. 원인 추정: 마지막 'End state (final image)'가 정지 화면을 부름, 분해와 응집이 서로 다른 움직임(흩어짐 → 모임)이라 회전 운동이 이어지지 않음. → 분해를 회전 소용돌이로, 그 회전이 그대로 씨앗과 고리로 이어지게, final image 문장 삭제.
 
