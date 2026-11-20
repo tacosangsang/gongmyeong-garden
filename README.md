@@ -16,7 +16,7 @@ gongmyeong-garden/
 
 - 앞부분 `GMC-01.mp4` (34.9초) 확정, Drive.
 - 다시 만들 구간: `GMC_Sub_11.mp4` (48초, 블록아웃 B05-B11). 01과 합쳐 82.9초라 약 2초 줄여야 81초. 제작 방식과 분할 지점은 미정.
-- Higgsfield 모델로 생성하려던 부분(숲 키 비주얼 Seedream, 모션 트랜스퍼)은 폐기. 나머지 문서와 Seedance 프롬프트는 유지. 다음 생성 전에 `01 docs/생성_참고사항.md`를 먼저 본다.
+- Higgsfield Genjutsu로 만들던 구간(모션 트랜스퍼, GMC_Sub_02_1·03 등)과 그 프롬프트(Genjutsu 룩 레퍼런스용 숲 키 비주얼 Seedream 프롬프트 포함)만 폐기. 나머지 문서와 Seedance 프롬프트는 유지. 다음 생성 전에 `01 docs/생성_참고사항.md`를 먼저 본다.
 
 ## 정본
 
