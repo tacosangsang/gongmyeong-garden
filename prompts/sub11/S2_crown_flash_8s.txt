@@ -1,0 +1,21 @@
+# S2 · 8s · blockout B06 / Notion C009-C010 · light gathers at the crown top, flash, wave (top view)
+# refs: @image1 = crops/camellia_s4.png
+
+REFERENCE ROLES:
+@image1: the open camellia flower design used all over the crown: five rounded red petals around a tiny white center, silver point-outline leaves. Use it only for the flowers and leaves. Do not copy its black background or its single-branch layout.
+
+STYLE: a night void drawn only with glowing points and thin lines; not a photographic scene and not neon. Every light source glows by itself; nothing is lit from outside. Points are small round grains of light that always line up into rows, dotted lines and contours; they never look like randomly sprinkled powder, sand or dust. Lines are thin and taper toward their ends. At least 70 percent of every frame is dark, there is only one brightest thing in the frame, and white areas stay tiny. Bloom only softens thin lines; it never builds shapes. Petals are dotted lattices of light points of their flower's color, never glossy solid surfaces. The sky is deep navy turning black toward the top. Quiet and ceremonial; something in the frame always moves, even when the camera is still.
+
+SUMMARY: Seen from its side, a full red camellia tree glows; red light climbs from its base to the top while the camera orbits a quarter turn and rises to a straight top view. The forest around darkens, all the light drains into one point at the crown top, a short white flash bursts, and a soft red swell of light spreads from the crown across the ground, making the dotted ground rows ripple in rings like a mandala. One continuous 8-second shot.
+
+SPACE AND SCREEN DIRECTION: the red tree stays in the center of the frame. Other trees around it are dim silver-teal outlines; the ground is rows of small light points that follow the bumps of the terrain like contour lines.
+
+TIMELINE:
+0-2s, Camera: side view of the upper half of the red tree, crown full of camellias like @image1; begins a quarter orbit around the trunk while rising. Red light climbs from trunk to branches to twigs; flowers brighten once as it passes. Sound: <low rising hum>.
+2-4s, Camera: continues the orbit and rise until it looks straight down on the crown top, then nearly stops. The forest around darkens one step. Light drains out of the leaves and flowers and gathers into one bright point at the crown center. Subtext: holding breath.
+4-5s, Camera: top view, almost still. A short white flash at the center; vertical beams of light seen from above appear as a ring of points; a thin rainbow fringe shows for a moment at the edge of the flash. Sound: <soft deep burst>.
+5-8s, Camera: top view, rising very slightly with a small roll. A soft red swell of light, a wide blurred band with afterglow behind it and thin light mist above it, spreads outward from the crown over the ground. The dotted ground rows lift and settle as it passes, rippling in concentric rings like a mandala. The swell keeps moving outward past the frame edge.
+
+CONSISTENCY: one continuous shot, no cut. The rainbow fringe appears only during the flash. Colors: camellia red #f5333d, silver, teal, navy; white only in the flash.
+
+AVOID: a filled flat disc of light, sharp ring lines, neon rings, fireworks, sparks flying, smoke clouds, explosion debris, rainbow outside the flash, yellow, pink, purple, blue flowers, people, text, lens flare, heavy bloom, sand, dust, grain, camera spinning fast.

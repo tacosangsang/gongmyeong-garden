@@ -1,0 +1,24 @@
+# S1 · 6s · blockout B05 / Notion C008 · camellia blooms through the crown
+# refs (Seedance picker order): @image1 = sub11-bloom/GMC-01_last.png, @image2 = crops/camellia_s2.png, @image3 = crops/camellia_s4.png
+
+REFERENCE ROLES:
+@image1: the START FRAME, the last frame of the previous shot. A smooth silver-gray trunk with scattered white points and one red vein of light running up it, a fork into two limbs, teal weeping willow on the left. The video begins exactly on @image1. Branch material for the whole clip comes from @image1: smooth silver-gray bark with scattered white points.
+@image2: the closed-bud stage of a camellia. Use it only for the shape, size and red color of the buds. The buds of @image2 are NOT in the frame at 0s.
+@image3: the full-bloom stage of a camellia. Use it only for the shape of the open flowers: five rounded red petals around a tiny white center, and for the leaves drawn as translucent outlines of fine silver points. The open flowers of @image3 are NOT in the frame before 3s.
+Do not copy the black background, the single-branch layout or the centered framing of @image2 or @image3.
+
+STYLE: a night void drawn only with glowing points and thin lines; not a photographic scene and not neon. Every light source glows by itself; nothing is lit from outside. Points are small round grains of light that always line up into rows, dotted lines and contours; they never look like randomly sprinkled powder, sand or dust. Lines are thin and taper toward their ends. At least 70 percent of every frame is dark, there is only one brightest thing in the frame, and white areas stay tiny. Bloom only softens thin lines; it never builds shapes. Petals are dotted lattices of light points of their flower's color, never glossy solid surfaces. The sky is deep navy turning black toward the top. Quiet and ceremonial; something in the frame always moves, even when the camera is still.
+
+SUMMARY: The camera follows the red vein up the limb of @image1 into the crown. Around it six to ten branches split into thinner twigs, red buds like @image2 gather at the nodes and tips, and camellias like @image3 open from the nearest twig outward until red flowers and silver leaves fill the frame, with silver branches and black gaps between them. One continuous 6-second shot.
+
+SPACE AND SCREEN DIRECTION: the red vein climbs the right limb toward the upper right. The camera rises along it and drifts slightly sideways, close to the branches, wide lens, shallow depth; near twigs pass in front of the lens as soft foreground.
+
+TIMELINE:
+0-1s, Camera: exactly @image1, then starts to rise along the right limb. The red vein keeps climbing. Sound: <low hum>.
+1-3s, Camera: rises into the crown along the red-veined limb. Six to ten branches overlap in the frame; each splits into thinner twigs in three tiers. Small points of red light travel along the twigs and gather at nodes and tips into closed red buds like @image2. Leaves light up as silver point outlines just behind the growing tips. Sound: <rising soft shimmer>.
+3-5s, Camera: keeps rising slowly. The buds open into camellias like @image3, nearest twig first, then farther and farther branches, never all at once. Each flower flashes white at its center once as it opens. Focus moves from the near flowers to the far branches. Subtext: the tree takes the color of the person. Sound: <soft chime>.
+5-6s, Camera: slow drift upward continues. Red camellias and silver leaves fill the frame, silver branches and black gaps between them; petals twinkle softly.
+
+CONSISTENCY: one continuous shot, no cut. Bark keeps the smooth silver-gray material of @image1. Only one color besides silver and teal: camellia red #f5333d; to brighten red add a white center, never pink. Flowers grow only forward: none, buds, open.
+
+AVOID: flowers visible at 0s, all flowers popping at once, pink, orange, yellow, purple, blue, wireframe trunk, neon tubes, single solid-red tree, red leaves painted flat like paper, flowers closing, falling petals, people, text, lens flare, heavy bloom, sand, dust, grain, objects appearing out of thin air.

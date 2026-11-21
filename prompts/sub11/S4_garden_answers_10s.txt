@@ -1,0 +1,24 @@
+# S4 · 10s · blockout B10 / Notion C012 · the garden answers, each plant blooms in its own color (frontal axis, leads into the final cut)
+# refs: @image1 = sub11-bloom/K4_bare_garden.png (start), @image2 = final-cut/start_frame_empty_garden.png (end), @image3 = crops/azalea_s3.png, @image4 = crops/hydrangea_s3.png
+
+REFERENCE ROLES:
+@image1: the START FRAME. The garden at night seen from the front: the red camellia tree in front and the gold marigold tree on the right are already lit; the violet tree behind in the center, the hydrangea tree at the upper right, the pink azalea bush in the middle and the cornflower bush on the left are still bare silver and teal with no flowers. The video begins exactly on @image1.
+@image2: the END FRAME. The same garden with every plant in full bloom in its own color. The video ends on the composition of @image2. The violet, hydrangea, azalea and cornflower blossoms of @image2 are NOT in the frame at 0s.
+@image3 and @image4: the half-open stage of an azalea and of a hydrangea. Use them only for how far the flowers have opened in the middle of the clip. Do not copy their black backgrounds or their centered framing.
+Priority: start on @image1, open the flowers in the order written, end on @image2. Trees, branches and bushes keep the shapes and places of @image1 the whole time; only flowers and color grow.
+
+STYLE: a night void drawn only with glowing points and thin lines; not a photographic scene and not neon. Every light source glows by itself; nothing is lit from outside. Points are small round grains of light that always line up into rows, dotted lines and contours; they never look like randomly sprinkled powder, sand or dust. Lines are thin and taper toward their ends. At least 70 percent of every frame is dark, there is only one brightest thing in the frame, and white areas stay tiny. Bloom only softens thin lines; it never builds shapes. Petals are dotted lattices of light points of their flower's color, never glossy solid surfaces. The sky is deep navy turning black toward the top. Quiet and ceremonial; something in the frame always moves, even when the camera is still.
+
+SUMMARY: The garden answers the red tree. One by one, the bare plants call their own color up from the ground: points of light climb their stems, gather into buds, open through the half-open stage of @image3 and @image4, and reach the full bloom of @image2. Each plant that blooms sends two or three thin rings of light across the dotted ground; the rings overlap into interference patterns. One continuous 10-second shot.
+
+SPACE AND SCREEN DIRECTION: camera locked on the framing of @image1 and @image2, which are the same framing. Bloom order goes from right to left and back to front: hydrangea tree upper right, violet tree center back, azalea bush middle, cornflower bush left.
+
+TIMELINE:
+0-1s, Camera: locked, exactly @image1. Two thin gold rings spread from the base of the gold tree across the dotted ground. Sound: <low hum>.
+1-4s, Camera: same. Pale lavender-blue points rise from the ground up the hydrangea tree at the upper right and gather into small knots at its branch tips; the knots open from the outside in into round domes of tiny four-petal florets, as in @image4, then fully. Thin lavender rings leave its base. At the same time violet points climb the violet tree in the center back and gather into buds. Sound: <rising soft shimmer>.
+4-7s, Camera: same. The violet tree opens into five-petal violet flowers. Magenta-pink points climb the azalea bush in the middle; buds unfurl into narrow funnels, as in @image3, then into open azaleas with thin stamens. Blue points climb the cornflower bush on the left; florets peek out into rings of fringed blue petals. Each blooming plant sends thin rings of its own color across the ground; where rings cross, the dotted rows show soft interference patterns. Subtext: everyone who passed here answers. Sound: <soft chimes, one per plant>.
+7-10s, Camera: same, a barely visible slow push. Every plant is in full bloom as in @image2. The rings fade into the dotted rows; thin ribbons of light mist drift between the crowns; petals keep twinkling and the willows sway slightly.
+
+CONSISTENCY: one continuous shot, no cut. The red and gold trees stay as they are from the first frame. Each plant keeps its own single color: hydrangea pale lavender-blue, violet deep violet, azalea magenta-pink, cornflower blue. Flowers grow only forward and only on their own plant; color never spreads to trunks, leaves or ground except the thin rings. No people anywhere.
+
+AVOID: all plants blooming at once, flowers visible on the bare plants at 0s, color spilling across the screen, rainbow wash, flowers closing, wilting, falling petals, plants moving or changing shape, new trees, people, text, sharp neon ring lines, filled discs, camera pan or zoom, heavy bloom, lens flare, sand, dust, grain.

@@ -1,0 +1,21 @@
+# S3 · 7s · blockout B07-B09 / Notion C011 ①②③ · three close shots following the wave, ends on gold tree A
+# refs: @image1 = crops/camellia_s3.png, @image2 = crops/marigold_s4.png
+
+REFERENCE ROLES:
+@image1: the half-open red camellia flower. Use it only for the shape and color of the small red wildflowers and buds on the ground in shot 2. Do not copy its background or framing.
+@image2: the full-bloom marigold: tight ball-shaped pompoms of warm gold points on thin stems. Use it only for the gold flowers that open in the crown of the tree in shot 3. The gold flowers of @image2 are NOT in the video before 6s.
+
+STYLE: a night void drawn only with glowing points and thin lines; not a photographic scene and not neon. Every light source glows by itself; nothing is lit from outside. Points are small round grains of light that always line up into rows, dotted lines and contours; they never look like randomly sprinkled powder, sand or dust. Lines are thin and taper toward their ends. At least 70 percent of every frame is dark, there is only one brightest thing in the frame, and white areas stay tiny. Bloom only softens thin lines; it never builds shapes. Petals are dotted lattices of light points of their flower's color, never glossy solid surfaces. The sky is deep navy turning black toward the top. Quiet and ceremonial; something in the frame always moves, even when the camera is still.
+
+SUMMARY: Three short shots that run with a red swell of light across the forest floor. Shot 1, a ground-level macro: the swell approaches and covers the lens. Shot 2, a low side macro tracking right: behind the bright band, mushrooms and small red flowers like @image1 light up and open. Shot 3, a low angle at the base of a second tree: the swell reaches it, light climbs its trunk, and its crown answers in gold, blooming with marigold pompoms like @image2.
+
+SPACE AND SCREEN DIRECTION: in all three shots the swell travels from screen left to screen right and from near to far.
+
+TIMELINE:
+0-2s, Shot 1, Camera: locked, 15 cm above the ground, wide lens, looking back toward the red tree, which is out of focus in the background with afterglow. A soft red swell approaches from the left; the dotted ground rows rise in front of it and grass tips catch red light. At 2s the swell covers the lens. Hard cut.
+2-4s, Shot 2, Camera: 25 cm above the ground, telephoto, tracking right at the speed of the swell. A bright band in the middle of the frame: to its left, small mushrooms (stem, cap, gills light up in that order) and small red flowers like @image1 already glow; to its right, the same plants are still dim silver-blue outlines with closed buds. Buds open just after the band passes. Grass blades sweep past in the foreground. Hard cut.
+4-7s, Shot 3, Camera: 1 m in front of the base of a second tree, 30 cm high, wide lens, then tilting up 60 degrees. The red swell reaches the tree base; light climbs the silver trunk and the camera follows it upward. At 6s the crown lights up in warm gold: marigold pompoms like @image2 open across the branches from the trunk outward. The gold flowers keep twinkling as the tilt slows.
+
+CONSISTENCY: shots 1 and 2 use only camellia red, silver, silver-blue and navy; gold appears only in shot 3 after 6s. The swell is a soft wide band with afterglow, never a sharp line.
+
+AVOID: gold or yellow before 6s, pink, purple, blue flowers, sharp ring lines, filled discs of light, neon, flat paper leaves, people, text, lens flare, heavy bloom, sand, dust, grain, objects appearing out of thin air, shots longer or shorter than written.

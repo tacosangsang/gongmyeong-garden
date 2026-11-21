@@ -1,0 +1,27 @@
+# GMC-bloom-flower.mp4 생성 프롬프트로 보이는 것 (11-21, Higgsfield 웹 프롬프트 칸에 남아 있던 내용을 기록. 일부 구간은 조각을 이어 붙임)
+# 성장 순서 표현(빈 줄기 -> 봉오리 -> 반개 -> 만개, 정수 초, 꽃별 모양 묘사)이 검증된 문장이라 S4에서 재사용한다.
+
+REFERENCE ROLES:
+@image1: the START FRAME. A specimen sheet of six bare plants in a grid of three columns and two rows on a deep midnight-navy night: top row camellia branch, marigold stems, violet stems; bottom row azalea shrub, cornflower stems, hydrangea shrub. No flowers, no color. The video begins exactly on @image1.
+@image2: the closed-bud stage of the same sheet. Use it for where each bud sits, its size and its color. The buds of @image2 are NOT in the frame at 0s; they form from gathering light between 1s and 4s.
+@image3: the half-open stage of the same sheet. Use it for how far each flower has opened at 7s. The flowers of @image3 are NOT in the frame before 4s.
+@image4: the END FRAME. The same sheet in full bloom. The video ends exactly on @image4. The open flowers of @image4 are NOT in the frame before 7s.
+Do not copy any still pose from @image2, @image3 or @image4: they are moments on the way, not frames to cut to.
+Priority: start on @image1, pass through @image2 and @image3 in order, end on @image4. The six panels, the branches, stems and leaves stay exactly as in @image1 the whole time.
+
+STYLE: a night void drawn only with glowing points and thin lines; not a photographic scene and not neon. Every light source glows by itself; nothing is lit from outside. Points are small round grains of light that always line up into rows, dotted lines and contours; they never look like randomly sprinkled powder, sand or dust. Lines are thin and taper toward their ends. At least 70 percent of every frame is dark, there is only one brightest thing in each panel, and white areas stay tiny. Bloom only softens thin lines; it never builds shapes. Petals are dotted lattices of light points of their flower's color, never glossy solid surfaces. Quiet and ceremonial; something in the frame always moves, even when the camera is still.
+
+SUMMARY: On six bare plants, points of light in each flower's own color rise from the ground, climb the stems and gather at the tips, condensing into small closed buds as in @image2. The buds swell and slowly open through the half-open stage of @image3 into the full bloom of @image4. A 12-second sequence in one continuous shot.
+
+SPACE AND SCREEN DIRECTION: one fixed sheet of six equal panels, camera locked off on the framing of @image1 for the whole clip. Each plant stays in its own panel; light never crosses from one panel to another. Colors per panel, left to right: top row camellia red #f5333d, warm gold, deep violet; bottom row magenta-pink, cornflower blue, pale lavender-blue.
+
+TIMELINE:
+0-1s, Camera: wide, locked off, exactly @image1. Six bare plants, dim silver-white and dark teal lines. A faint shimmer runs along the branches. Sound: <a soft low hum>.
+1-4s, Camera: same. In each panel, small points of that flower's color rise from the dim dots under the plant, travel up the stems in thin dotted streams and gather at the tips where the flowers will be. Each gathering spot tightens into a small closed bud of colored points, at the places and sizes of @image2. The panels do not move in step: camellia and cornflower first, then marigold and azalea, violet and hydrangea last, each about half a second apart. Subtext: the plant calls its color home. Sound: <rising soft shimmer>.
+4-7s, Camera: same. The buds swell and loosen. Outer petals part a little at a time, not all at once, on different buds at slightly different moments: camellia cups loosen, marigold petals push out of the top, violets lift and half spread, azalea tips unfurl into narrow funnels, cornflower florets peek out, hydrangea knots open from the outside in. End state at 7s: every flower half open, as in @image3.
+7-10s, Camera: same. The flowers open fully: camellias into five-petal flowers with tiny white centers, marigolds into tight ball-shaped pompoms, violets into five rounded petals with a white-yellow eye, azaleas into open funnels with thin stamens, cornflowers into rings of fringed florets, hydrangeas into round domes of tiny four-petal florets. The last loose points settle into the petals. Subtext: arrival. Sound: <soft chime>.
+10-12s, Camera: same. Full bloom holds; only a faint slow twinkle moves across the petals. End state at 12s: exactly @image4.
+
+CONSISTENCY: one continuous shot, no cut, no camera move, no zoom. Branches, stems and leaves keep the same shape and place the whole time; only the buds and flowers grow. Flowers appear only at the places they have in @image2, @image3 and @image4, and grow only forward: bare, buds, half open, full bloom. Each panel keeps its own color. No dialogue, no voiceover, no music of any kind; ambient sound only. No subtitles.
+
+AVOID: flowers visible at 0s, flowers popping in all at once, open petals before 4s, flowers closing or shrinking, wilting, falling petals, reverse playback, branches growing or moving, plants swaying, extra plants, panels changing size or merging, light crossing between panels, camera zoom or pan, people, readable text, labels, frames made of light, solid glossy petals, neon tubes, heavy bloom, lens flare, sand, dust, grain. No objects appearing out of thin air.
