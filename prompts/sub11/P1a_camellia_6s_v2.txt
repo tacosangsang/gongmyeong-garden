@@ -1,0 +1,19 @@
+# P1a v2 · 6s · cut 1 opening (Notion C008 / B05) · redo with bark-twig camellia ref
+# refs: @image1 = sub11-bloom/GMC-01_last.png, @image2 = crops_v2/camellia_s4_bark.png
+REFERENCE ROLES:
+@image1: the START FRAME, the last frame of the previous shot. A smooth silver-gray trunk with scattered white points and one red vein of light running up it, a fork into two limbs, thin red twigs at the top left, teal weeping willow on the left. The video begins exactly on @image1. Every branch and twig in the whole video is this same tree: smooth silver-gray bark with scattered white points and thin red twigs.
+@image2: the open camellia flower and its leaves: five rounded red petals around a small white-and-gold center, dark teal leaves, on smooth silver-gray twigs. Use it only for the shape and color of the flowers, buds and leaves. Do not copy its black background, its single-branch layout or its centered framing. The open flowers of @image2 are NOT in the frame before 3s.
+
+STYLE: a night forest of self-luminous points and thin light lines; not neon. Every light source glows by itself. Most of the frame stays dark; white areas stay tiny. Petals glow softly from inside with fine points of red light. The sky is deep navy turning black toward the top. Quiet and ceremonial; something always moves.
+
+SUMMARY: The camera follows the red vein up the limb of @image1 into the crown of this same tree. Red buds swell at the tips of its existing red twigs and open into camellias like @image2, nearest twig first, until red flowers and dark teal leaves fill the frame. No new branches appear; the flowers grow out of the twigs that are already there. One continuous 6-second shot.
+
+TIMELINE:
+0-1s, Camera: exactly @image1, then starts to rise slowly along the right limb toward the upper right, wide lens. The red vein keeps climbing. Sound: <low hum>.
+1-3s, Camera: rises into the crown along the same limb, drifting slightly sideways; the branches in view are the smooth silver-gray limbs and thin red twigs of @image1, splitting into finer twigs. Points of red light travel along the twigs and gather at their tips into small closed red buds. Small dark teal leaves unfold just behind the tips. Sound: <rising soft shimmer>.
+3-5s, Camera: keeps rising slowly. The buds open into camellias like @image2, nearest twig first, then farther twigs, never all at once; each flower flashes white at its center once as it opens. Subtext: the tree takes the color of the person. Sound: <soft chime>.
+5-6s, Camera: slow drift upward continues. Red camellias and dark teal leaves on silver-gray twigs fill the frame with black gaps between them; petals twinkle softly.
+
+CONSISTENCY: one continuous shot, no cut. All branches keep the smooth silver-gray bark of @image1 from first to last frame. Flowers appear only at the tips of existing twigs. Colors: camellia red #f5333d, silver-gray, dark teal, navy; white only in the flower centers. Flowers grow only forward: none, buds, open.
+
+AVOID: white wireframe branches, dotted or grid stems, mesh or lattice leaves, glowing white lines, a new branch sliding into the frame, a bud or flower passing in front of the lens, out-of-focus blobs in the foreground, flowers visible at 0s, all flowers popping at once, pink, orange, yellow, purple, blue, neon tubes, flat paper leaves, flowers closing, falling petals, people, text, lens flare, heavy bloom, sand, dust, grain, objects appearing out of thin air.

@@ -21,3 +21,15 @@ GMC-01(34.9초) 뒤를 잇는 46초. 개화 시트 4단계(빈 줄기 → 봉오
 미확인
 - Seedance 6·7·8·10·15초 길이 지정 가능 여부. 13초만 확인됨.
 - 영상 생성은 ts 계정에 무제한이 없어 크레딧이 든다. 프롬프트와 프레임까지만 준비.
+
+## 11-21 씬8-12 두 컷 재분할 (노션 C008-C012 = 블록아웃 B05-B10 = S1-S4)
+
+금색 나무 A 등장 전후로 나눔. 나누는 지점은 원래 하드컷(B08/B09)이라 이음새가 따로 생기지 않는다.
+
+| 파일 | 길이 | 내용 | 레퍼런스 순서 | 상태 |
+| --- | --- | --- | --- | --- |
+| P1_before_gold_18s.txt | 18s | 동백 개화, 탑뷰 섬광, 너울, 지면 매크로 2컷. 금색 없음 | GMC-01_last, camellia_s2, camellia_s4, camellia_s3 | 480p 생성(54크레딧). 0-6초 가지가 흰 와이어로 바뀌는 문제 |
+| P2_gold_tree_and_garden_13s.txt | 13s | 나무 A 밑동에서 금색 선이 올라 수관 점등, 하드컷 뒤 정원 개화, 마지막 컷 시작 프레임으로 끝 | marigold_s4, K4_bare_garden, start_frame_empty_garden, azalea_s3, hydrangea_s3 | v2(금색 선) 480p 생성. v1은 붉은 너울로 시작해 반려 |
+| P1a_camellia_6s_v2.txt | 6s | P1의 0-6초만 다시. 줄기를 은회색 껍질로 바꾼 동백 레퍼런스 사용 | GMC-01_last, crops_v2/camellia_s4_bark | 480p 생성. 가지 해결, 단 5초 이후 레퍼런스 구도(검은 바탕 꽃가지 하나)로 수렴 |
+
+결과 영상·크롭은 공유 폴더 sub11-bloom/ (scene8-12_*.mp4, crops_v2/, review_p1/). 생성은 Higgsfield MCP generate_video(omni_reference, image_references 순서 = @imageN).
